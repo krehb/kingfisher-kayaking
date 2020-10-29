@@ -1,0 +1,54 @@
+.date {
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.red {
+    background-color: rgb(82, 168, 93);
+}
+
+.before {
+    background-color: rgb(219, 219, 219);
+}
+
+.today {
+    background-color: chartreuse;
+}
+
+.kayaks-0 {
+    background-color: rgb(243, 102, 92);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.kayaks-2 {
+    background-color: rgb(219, 161, 75);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.kayaks-4 {
+    background-color: rgb(218, 195, 97);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.kayaks-6 {
+    background-color: rgb(199, 236, 95);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.kayaks-8 {
+    background-color: rgb(113, 235, 129);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
